@@ -1,4 +1,4 @@
-# Power bi
+# Power BI
 
 - Ribbon
 - Report
