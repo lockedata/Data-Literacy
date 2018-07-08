@@ -4,3 +4,6 @@
 - Join design
 - Filtering
 - Best practices
+
+## Recommended resources and readings
+- :book: [Agile Datawarehouse Design](http://geni.us/agiledwhd)
