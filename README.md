@@ -10,7 +10,7 @@ The course will use Excel, and data brought into Excel from other sources, to pr
 ### Measure of Success
 Upon completion of this course, students should be able to;
 
- - Explain what data is, why it is important, where it comes from, and how it used
+ - Explain what data is, why it is important, where it comes from, and how it is used
  - Access data from simple sources such as databases or other spreadsheets
  - Read and understand data in an Excel spreadsheet
  - Understand the architecture of said data
@@ -25,37 +25,12 @@ Upon completion of this course, students should be able to;
  - Create data dashboards
  
 ### Course Contents
- 1. Understanding what data is
- 2. Introduction to Excel
- 3. Data sources and how to use them
- 4. Reading the data
- 5. Proper data architecture for Excel
- 6. Data manipulation
- 7. Data visualisation
- 8. Dashboarding and presentation
-
-## 1. Understanding what data is
-
-
-## 2. Introduction to Excel
-
-
-## 3. Data sources and how to use them
-
-
-## 4. Reading the data
-
-
-## 5. Proper data architecture for Excel
-
-
-## 6. Data manipulation
-
-
-## 7. Data visualisation
-
-
-## 8. Dashboarding and presentation
-
-
-## Conclusion
+ 1. [Understanding what data is](UnderstandingData.md)
+ 2. [Introduction to Excel](Excel.md)
+ 2. [Thinking about data capture](DataCapture.md)
+ 3. [Data sources and how to use them](DataSources.md)
+ 4. [Interpreting raw data](InterpretingData.md)
+ 5. [Data architecture for Excel](ExcelArchitecture.md)
+ 6. [Data manipulation](DataManipulation.md)
+ 7. [Data visualisation](DataVisualisation.md)
+ 8. [Dashboarding and presentation](Daashboarding.md)
