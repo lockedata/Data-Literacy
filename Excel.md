@@ -1,7 +1,6 @@
-# Excel
+# Power bi
 
 - Ribbon
-- Formatting
-- Workbook
-- Sheet
-- Table
+- Report
+- Data
+- Relationships
