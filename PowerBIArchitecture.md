@@ -1,6 +1,6 @@
-# Data architecture for Excel
+# Data architecture for Power BI
 
 - Normalisation
 - Join design
-- Fitlering
+- Filtering
 - Best practices
