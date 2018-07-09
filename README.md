@@ -29,7 +29,6 @@ Upon completion of this course, students should be able to;
  2. [Thinking about data capture](DataCapture.md)
  3. [Data sources and how to use them](DataSources.md)
  4. [Interpreting raw data](InterpretingData.md)
- 5. [Data architecture for Power BI](PowerBIArchitecture.md)
  6. [Data manipulation](DataManipulation.md)
  7. [Data visualisation](DataVisualisation.md)
  8. [Dashboarding and presentation](Daashboarding.md)
