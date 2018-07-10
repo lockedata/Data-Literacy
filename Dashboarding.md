@@ -1,17 +1,33 @@
 # Dashboarding and presentation
 
-## Dashboard design
+**With the app we build *reports*. These get published online where they can be used to construct *dashboards*.**
+
+## Report design extras
 - Text boxes
 - Images
 - HTML
+- Shapes
 
-## Drillthrough
-## Filtering
-## Q&A best practices
+### Demos
+Incorpoate some useful items into your report
+
+## Best practices for a good Q&A experience
 - Good column names
 - Use synonyms
 - Hide columns that shouldn't be used for analysis
 - Consider multi-lingual support where beneficial
+
+### Demos
+Clean up the American column names
+
+## Dashboards
+- Making tiles
+- Optimising for mobile
+- Sharing dashboards
+
+### Demos
+- Publish the report
+- Start creating a dashboard from it
 
 ## Exercises
 1. Publish your Power BI report
