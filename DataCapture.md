@@ -15,6 +15,17 @@
 - Think about diversity
 - Assist folks in filling the form out well
 
+## Planning data capture
+- What information do you need to perform the associated task?
+- What types of analysis are you expecting to do?
+- Do you **REALLY** need that personally identifiable info?
+- What data types do I need and which fields can come from a constrained list?
+- What things can I do to make it easier to for folks to complete the form?
+- What audit data do I need?
+
+## Demo
+Design a form using Airtable for managing a bacon roll run
+
 ## Exercises
 1. Identify a form that you use regularly
 2. What parts make it easier for you to fill in?
