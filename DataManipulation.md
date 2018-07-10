@@ -1,10 +1,25 @@
 # Data Manipulation
-- Transformations in-depth
-- Table and DAX formulae
-- Calculated columns
-- Measures
-- Missings and errors
-- Conditionals
+
+## Transformations
+### Commonly used options
+### Undoing changes
+### Best practices
+### Demos
+
+## Writing formulae
+### References
+### Conditional calculations
+### Common functions
+### Error handling
+### Best practices
+### Demos
+
+## Calculated columns and measures
+Calculated columns are extra values added to your data set. Use these when you need columns to appear in rows and groups as headers, or for making joins. Use measures when you want to perform calculations like sum of sales. 
+
+### Creating calculated columns
+### Creating measures 
+### Demos
 
 ## Exercises
 1. Make sure columns that count as measures are handled as such
