@@ -5,6 +5,18 @@
 ### Undoing changes
 ### Best practices
 ### Demos
+Import some data and use many of the transformations. Make sure to roll some back.
+
+
+
+## Calculated columns and measures
+Calculated columns are extra values added to your data set. Use these when you need columns to appear in rows and groups as headers, or for making joins. Use measures when you want to perform calculations like sum of sales. 
+
+### Creating calculated columns
+### Creating measures 
+### Demos
+- Create a calculated column that returns the first name of a superhero
+- Create a measure that returns the average ratio of height and weight
 
 ## Writing formulae
 ### References
@@ -13,13 +25,8 @@
 ### Error handling
 ### Best practices
 ### Demos
-
-## Calculated columns and measures
-Calculated columns are extra values added to your data set. Use these when you need columns to appear in rows and groups as headers, or for making joins. Use measures when you want to perform calculations like sum of sales. 
-
-### Creating calculated columns
-### Creating measures 
-### Demos
+- Revisit the formulae written in previous demo
+- Show the intellisense and DAX Studio for extra help
 
 ## Exercises
 1. Make sure columns that count as measures are handled as such
