@@ -16,10 +16,11 @@
 1. Explore the results
 
 ## Recommended resources and readings
-- :globe_with_meridians: [Power BI :house:](http://powerbi.microsoft.com)
-- :globe_with_meridians: [Power BI :books:](http://support.powerbi.com/)
-- :globe_with_meridians: [Power BI :dancers:](http://community.powerbi.com/)
-- :globe_with_meridians: [Power BI :page_facing_up:](http://blogs.msdn.com/b/powerbi/)
+- :globe_with_meridians: [Power BI homepage :house:](http://powerbi.microsoft.com)
+- :globe_with_meridians: [Power BI docs :books:](http://support.powerbi.com/)
+- :globe_with_meridians: [Power BI community :dancers:](http://community.powerbi.com/)
+- :globe_with_meridians: [Power BI blog :page_facing_up:](http://blogs.msdn.com/b/powerbi/)
+- :globe_with_meridians: [Power BI guided learning :mortar_board:](https://docs.microsoft.com/en-us/power-bi/guided-learning/index)
 - :bird: [@guyinacube](https://twitter.com/guyinacube)
 - :bird: [@br0adtree](https://twitter.com/Br0adtree)
 - :bird: [@dataveld](https://twitter.com/dataveld)
