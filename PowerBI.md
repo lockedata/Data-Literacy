@@ -9,6 +9,9 @@
 ## What is Power BI?
 ![Power BI Microsoft View](img/powerbimsftintro.png)
 
+## Navigating Power BI
+![Power BI bits and pieces](img/powerbihome.jpg)
+
 ## Exercises
 1. Install Power BI app from the Windows store
 1. Register for Power BI
