@@ -10,7 +10,7 @@
 [Your data matters](https://youtu.be/_RVPj-GSOdY)
 
 ## Why does it matter?
-![Digital transformation](https://msdnshared.blob.core.windows.net/media/2017/10/image_thumb1117.png)
+![Digital transformation](https://news.microsoft.com/uploads/prod/2017/09/Slide9.jpg)
 
 ## Thinking about data safely
 ![https://ico.org.uk/for-organisations/resources-and-support/posters-stickers-and-e-learning/](img/yourdataissafewithme.jpg)
