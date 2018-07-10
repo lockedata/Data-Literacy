@@ -41,3 +41,4 @@ Clean up the American column names
 - :page_facing_up: [Dashboard UI showcase](https://www.designyourway.net/blog/inspiration/showcase-of-beautiful-dashboard-ui-designs/)
 - :page_facing_up: [Dashboard best practices](https://www.toptal.com/designers/data-visualization/dashboard-design-best-practices)
 - :page_facing_up: [More dashboard best practices](hhttps://usabilitygeek.com/dashboard-design-user-experience-guidelines/)
+- :wrench: [Theme generator](https://powerbi.tips/tools/report-theme-generator-v3/)
