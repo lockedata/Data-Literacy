@@ -3,6 +3,10 @@
 ## What is Power BI?
 ![Power BI Microsoft View](img/powerbimsftintro.png)
 
+Power BI is Microsoft's new(ish) service for presenting data. You may have used or seen reports in Excel or SSRS, Power BI is a bit like that, but way better! Power BI enables users to easily connect to data, make changes to the way the data is presented, make rich visualisations, and then share data within their organisation as dashboards.
+
+We'll be using Power BI to help you understand data because it's quick and easy to use, meaning less time fretting over how the system works, and more time doing cool things with your data!
+
 ## Navigating Power BI online
 ![Power BI bits and pieces](img/powerbionlinehome.jpg)
 ![Power BI dashboard](img/powerbidashboard.jpg)
