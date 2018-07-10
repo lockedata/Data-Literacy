@@ -1,10 +1,4 @@
 # Understanding what data is
-
-- Benefits
-- Challenges
-- Databases
-- Non-relational
-
 ## What is data?
 ![What is data?](img/whatisdata.png)
 [Your data matters](https://youtu.be/_RVPj-GSOdY)
@@ -16,6 +10,7 @@
 ![https://ico.org.uk/for-organisations/resources-and-support/posters-stickers-and-e-learning/](img/yourdataissafewithme.jpg)
 
 ## How is data stored?
+![how is data stored?](img/datastores.png)
 
 ## Exercises
 1. In pairs, list some of the organisations data stores
