@@ -1,16 +1,28 @@
 # Power BI
-- Sign-up
-- App
-- Ribbon
-- Report
-- Data
-- Relationships
 
 ## What is Power BI?
 ![Power BI Microsoft View](img/powerbimsftintro.png)
 
-## Navigating Power BI
+## Navigating Power BI online
+![Power BI bits and pieces](img/powerbionlinehome.jpg)
+![Power BI dashboard](img/powerbidashboard.jpg)
+
+### Demos
+Using Power BI online
+- Logging into Power BI online
+- Connecting to a service
+- Exploring the dashboard
+- Asking questions
+- Viewing the underlying reports
+
+## Navigating Power BI desktop
 ![Power BI bits and pieces](img/powerbihome.jpg)
+
+
+### Demos
+Using Power BI desktop
+- Load some data
+- Produce a basic visualisation
 
 ## Exercises
 1. Install Power BI app from the Windows store
