@@ -30,7 +30,7 @@ Data should be stored and managed by experienced staff, and only accessed by peo
 Data shouldn't be stored in a manner that exposes it to risk; it shouldn't be kept on a portable flash drive, or printed off and left on a desk, and if we don't need it any more (i.e. a streaming subscription service doesn't need our bank details if we cancel the service) the data should be deleted!
 
 ## How is data stored?
-Data is stored in a vast array of ways, from databases to spreadhseets, CSVs to "cloud" storage. Different forms of storage also entail different ways of recording, handling, and querying data. If data is stored in a SQL database, it will be stored using a SQL relational model, handled and modified using SQL code, and queried using SQL code too. Even if we bring the information the data holds into a report, and present it using something else, like Excel, the data itself is still coming from the SQL database; we just changed the way it looks.
+Data is stored in a vast array of ways, from databases to spreadhseets, CSVs to "cloud" storage. Different forms of storage also entail different ways of recording, handling, and querying data. If data is stored in a SQL database, it will be stored using a relational model, handled and modified using specific code, and queried using that code too. Even if we bring the information the data holds into a report, and present it using something else, like Excel, the data itself is still coming from the SQL database; we just changed the way it looks.
 
 However it's stored, these collections of data are often referred to as "data stores". Further, if we then connect to a particular set of data for reporting, that connection points at a "data source."
 
