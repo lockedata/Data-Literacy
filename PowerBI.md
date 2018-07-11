@@ -36,6 +36,7 @@ Using Power BI desktop
 - :globe_with_meridians: [Power BI community :dancers:](http://community.powerbi.com/)
 - :globe_with_meridians: [Power BI blog :page_facing_up:](http://blogs.msdn.com/b/powerbi/)
 - :globe_with_meridians: [Power BI guided learning :mortar_board:](https://docs.microsoft.com/en-us/power-bi/guided-learning/index)
+- :mortar_board: [Power BI certification](https://www.microsoft.com/en-us/learning/exam-70-778.aspx)
 - :bird: [@guyinacube](https://twitter.com/guyinacube)
 - :bird: [@br0adtree](https://twitter.com/Br0adtree)
 - :bird: [@dataveld](https://twitter.com/dataveld)
