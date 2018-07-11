@@ -37,5 +37,6 @@ Available online, or select custom themes from the PReview tab in Settings
 1. Start developing charts and tables that explore the superheroes data
 
 ## Recommended resources and readings
+- :globe_with_meridians: [From data to viz](https://www.data-to-viz.com/)
 - :book: [Show me the numbers](http://geni.us/showmethenumbers)
 - :book: [The Truthful Art](http://geni.us/truthfulart)
