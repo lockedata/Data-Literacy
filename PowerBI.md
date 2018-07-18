@@ -3,6 +3,17 @@
 ## What is Power BI?
 ![Power BI Microsoft View](img/powerbimsftintro.png)
 
+Power Bi is Microsoft's new solution to dashboarding, reporting, and multi-user accessibility. It allows you to bring data in from multiple sources, mash it up, edit it, join it, and then report it on it. After that you can share it online with your organisation, so others can build easy, drag-and-drop reports and dashboards with it.
+
+## Why Power BI?
+Power BI can handle all kinds of data, from all kinds of places, and has incredibly powerful and intuitive tools for reporting. By using Power BI, we can work with all the different kinds of data we want to -- and produce the kind of reports we want to -- quickly and easily, and all in one place.
+
+By using this single service for everything we'll be covering, we can get on with learning what really matters, rather than getting bogged down in how to use the systems.
+
+## Getting started with Power BI
+
+
+
 ## Navigating Power BI online
 ![Power BI bits and pieces](img/powerbionlinehome.jpg)
 ![Power BI dashboard](img/powerbidashboard.jpg)
