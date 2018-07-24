@@ -57,10 +57,16 @@ Ultimately, unless we're doing something short term (i.e. a form for people to u
 Data comes in a whole range of types; from numbers to text, logic to dates. We should always record data in the right type; so numbers should be stored as numbers, not as text. This makes it much easier to work with, and analyse our data. It's also important that we constrain the way that data is entered into our system, even within the confines of data types. If we end up with dates in various formats, it's going to be impossible to query our data by date. So we should build in data validation, and where possible provide pre-populated list or controls like date pickers in place of free fields.
 
 ### What things can we do to make it easier to for folks to complete the form?
-sfca
+Dropdowns and date pickers don't just make for better quality data, they also make it easier for people to fill in our forms. Other things to consider include:
+- layout
+  - Is it easy to understand what to fill out next?
+- Readability
+  - Is it clear what data goes where, and in what format?
+- Accessibility
+  - Can the form be processed by a screen reader? Is it responsive to different screen layouts? Can it easily be translated?
 
 ### What audit data do we need?
-sfca
+Like with analysis, we may need to keep certain records for auditing purposes, such as access rights, creation and modified dates. While this won't go directly into the form design, we still need to be mindful of it, as it will become more relevant as we connect the form to our databases.
  
 
 ## Demo
