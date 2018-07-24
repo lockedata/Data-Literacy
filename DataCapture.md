@@ -17,7 +17,7 @@ Yup, we're back to GDPR again! GDPR establishes rules for how we collect and han
 
 ... Providing yet more considerations when establishing a system of data capture.
 
-## Principles
+## What are some key principles of good data capture?
 Here are some key principles that will make it easier to think about data capture:
 
 ### Keep It Simple Stupid
@@ -30,34 +30,38 @@ Conventions exist for a reason; they make it easier for people to do things quic
 Nothing trips a user up quite like inconsistencies. If you ask for mobile number with a country code, and home number without, that's going to cause users to pause or become confused. It leads to poorly completed forms (see above) and it also leads to bad data, as it's harder to compare values across fields.
 
 ### Minimise actions
-The more a user has to do, they less likely they are to do it. If you don't need to record why they chose to fill out this form on a Monday, and what the weather is like outside, then don't! If a user can quickly tab and click their way through a short and elegent form then they're more likely to complete it, and more likely to comeplete it accuartely.
+The more a user has to do, they less likely they are to do it. If you don't need to record why they chose to fill out this form on a Monday, and what the weather is like outside, then don't! If a user can quickly tab and click their way through a short and elegant form then they're more likely to complete it, and more likely to complete it accurately.
 
 ### Think about diversity
 OK, so maybe it's not going to factor into data quality; but do you really need to record a user's title? If there are ways that you can be more inclusive, like skipping title or gender, or including a more full list of genders (rather than just male or female) then your users are going to be happier. If nothing else, a happy user is more likely to take the time to make sure they've filled out the form accurately.
 
 ### Assist folks in filling the form out well
-In the scope of filling out webforms, little is more annoying that clicking subm it, only to see big red text telling you you did something wrong. Oh, *now* you tell me that my password has to be less than 16 characters! This is easily avoided by telling the user what they need to do upfront; provide tooltips in form fields, hover text or call outs. Make it as easy as possible to give you the data you want, in the format you need.
+In the scope of filling out webforms, little is more annoying that clicking submit, only to see big red text telling you you did something wrong. Oh, *now* you tell me that my password has to be less than 16 characters! This is easily avoided by telling the user what they need to do upfront; provide tooltips in form fields, hover text or call outs. Make it as easy as possible to give you the data you want, in the format you need.
 
-## Planning data capture
-Great, so what now? Time to plan out your data capture!
+## How can we plan our data capture?
+Great, so what now? Time to plan out your data capture! To get started, here are some valuable questions you should be asking:
 
-## What information do you need to perform the associated task?
+### Why do we need to capture this data?
+The first thing you need, when looking to set up data capture, is to know why you're doing it! There's no sense just randomly collecting info; you should be doing data capture with a specific use in mind. For instance, if you're looking to set up a customer service form, you're end goal is being able to resolve customer contacts, with a bonus feature of analysis. With your intent properly laid out, you can more readily answer all of the questions that are to follow.
 
+### What information do we need to capture?
+Now that you know *why* you need data, you're ready to think about *what* data you need. Using our customer service form example again; we'll need a name, an email address, and a comment section to record the problem or question. We may want a category section to make it easier to sort and process incoming contacts. If we're receiving replacement or postage requests we may need an address or even a phone number. As with understanding why we need data, knowing what data we need to capture will provide answers to future questions. But staying on the topic of *what* data we need...
 
-## What types of analysis are you expecting to do?
+### Do we **REALLY** need that personally identifiable info?
+Any data that can be used to identify a person is a risk, so if we record a name and an address we'd better have a good need for it. If we're making a form to record feedback on a website that's currently under development we may want to record an email address for following up, but do we need a physical address, or even a name? We should always ask ourselves if we really need a bit of info, are we going to need it to be able to complete the aim of this capture project? If not, don't ask it.
 
+### What types of analysis are we expecting to do?
+Ultimately, unless we're doing something short term (i.e. a form for people to update their address) we're going to want to be able to analyse the data we get on aggregate. Individual records on customer service issues help us resolve those issues, but they don't help us identify patterns in complaints, or trends in particular requests. Try to think about what kind of reports you'd want to see once the data capture is in place.
 
-## Do you **REALLY** need that personally identifiable info?
+### What data types do we need and which fields can come from a constrained list?
+Data comes in a whole range of types; from numbers to text, logic to dates. We should always record data in the right type; so numbers should be stored as numbers, not as text. This makes it much easier to work with, and analyse our data. It's also important that we constrain the way that data is entered into our system, even within the confines of data types. If we end up with dates in various formats, it's going to be impossible to query our data by date. So we should build in data validation, and where possible provide pre-populated list or controls like date pickers in place of free fields.
 
+### What things can we do to make it easier to for folks to complete the form?
+sfca
 
-## What data types do I need and which fields can come from a constrained list?
-
-
-## What things can I do to make it easier to for folks to complete the form?
-
-
-## What audit data do I need?
-
+### What audit data do we need?
+sfca
+ 
 
 ## Demo
 Lets take a look at a quick demo now, in which we use the super handy webforms service, Airtable, to design a form for managing a bacon roll run!
