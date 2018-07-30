@@ -21,6 +21,8 @@ Like with tables, it's important that we give some time to thinking about format
 
 ![Chart formatting](img/ChartFormatting.png)
 
+And here's an awesome step by step guide to improving charts from Darkhorse Analytics: ![Remove to Improve](http://static1.squarespace.com/static/56713bf4dc5cb41142f28d1f/5671e8bf816924fc22651410/5671eae2816924fc2265189a/1450306274301/data-ink.gif)
+
 ### Demos
 - Build a chart 
 - Change it to different types
