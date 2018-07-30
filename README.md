@@ -31,4 +31,4 @@ Upon completion of this course, students should be able to;
  4. [Interpreting raw data](InterpretingData.md)
  6. [Data manipulation](DataManipulation.md)
  7. [Data visualisation](DataVisualisation.md)
- 8. [Dashboarding and presentation](Daashboarding.md)
+ 8. [Dashboarding and presentation](Dashboarding.md)
