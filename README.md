@@ -7,10 +7,10 @@ The aim of this course is to provide a solid foundation for understanding data. 
 The course will be aimed at people with little to no prior knowledge of data, and aims to ensure they are confident handling data, and have the solid understanding needed to be able to further grow their understanding once the course is complete.
 
 ## Systems
-The course will use Power BI to work with data as it helps surface the concepts very well. This cource could be taught using other, similar tools. 
+The course will use Power BI to work with data as it helps surface the important concepts well. This course could be taught using other, similar tools. 
 
-1.	Via https://app.powerbi.com/signupredirect?pbi_source=web  register with your your work / school email address
-1.	Download the superhero data we’ll be utilising https://1drv.ms/u/s!AiZm2P6YHtSfhIZXuaWdbmSiidMy7Q 
+1.	[Register](https://app.powerbi.com/signupredirect?pbi_source=web)  with your your work / school email address
+1.	Download the [superhero data](https://1drv.ms/u/s!AiZm2P6YHtSfhIZXuaWdbmSiidMy7Q) we’ll be utilising 
 1. [Optional] Install the Power BI desktop app on your Windows machine
 
 ## Measure of Success
