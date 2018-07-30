@@ -1,6 +1,9 @@
 # Data Manipulation
+We've briefly touched on this already, but in this section we'll take a deeper look at Data Manipulation. When we get data into Power BI it may well not be ideal for working with; it may be ideally structured for storage, but not for reporting, or we may have difficulty matching up certain values due to data formatting. Data maipulation is the step in which we'll set all this right, and make sure that our data works the way we need it to.
 
 ## Transformations
+Firstly, we'll need to make transformation to the way the data is structured, and the format it's in 
+
 ### Commonly used options
 ### Undoing changes
 ### Best practices
