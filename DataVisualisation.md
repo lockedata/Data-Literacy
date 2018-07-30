@@ -7,7 +7,7 @@ It may seem like any table is the same as any other, but there are some tricks t
 ![Table formatting](img/TableFormatting.png)
 
 ## Charts
-Charts (or graphs) are a key element of data visualisation; they allow us to quickly view the most important elements of our data, and see patterns emerging. They come in a wide varriety, and each has it's place. It's important that we use the right type of chart for what we need to represetn, and this illustration by Andrew Abela shows the right way to think about this:
+Charts (or graphs) are a key element of data visualisation; they allow us to quickly view the most important elements of our data, and see patterns emerging. They come in a wide variety, and each has it's place. It's important that we use the right type of chart for what we need to represent, and this illustration by Andrew Abela shows the right way to think about this:
 
 ![Andrew Abela's chart chooser](http://extremepresentation.typepad.com/photos/uncategorized/choosing_a_good_chart.jpg)
 
@@ -36,7 +36,7 @@ We should ensure that our formatting is consistent; if we want to have currency 
 Conditional formatting is where we provide rules that dictate how something is formatted, like having negative values show up in red. It's very useful, but should be used sparingly.
 
 ### General theming
-Many reporitng programs have built in formatting options, or themes, which can make it quick and easy to apply consistent styles to your reports, but you can also define your own. As with data formatting, if we choose a theme, we should be consistent with it's application.
+Many reporting programs have built in formatting options, or themes, which can make it quick and easy to apply consistent styles to your reports, but you can also define your own. As with data formatting, if we choose a theme, we should be consistent with it's application.
 
 ### Best practices
 - Think about things like Red / Green colour blindness
