@@ -6,29 +6,29 @@ Firstly, we'll need to make transformation to the way the data is structured, an
 
 ### Commonly used options
 
-- First row as headers
-- Sorting out data types
-- Tidying text data 
-- Remove Rows to deduplicate data
+- First row as headers (often the data we bring in doesn't differentate between headers and data)
+- Sorting out data types (data types may be incorrectly applied, or missing entirely)
+- Tidying text data (text is often messy, we may want to capitalise name, or remove excess spaces)
+- Remove Rows to deduplicate data (if we're combining data sets, we may end up with duplicate data)
 - Summarisable
-- NA replacement
-- Split column
-- Reshaping data
+- NA replacement (when there is no value in a record, it will often return NA instead of 0)
+- Split column (sometimes a column may contain multiple attributes, such as "City-Country")
+- Reshaping data (we talked previously about the different shapes imported data can take)
     + Transpose
     + Pivot
     + Unpivot
 
 ### Undoing changes
+
+
 ### Best practices
-The best performing code is code you never have to run - what can you do to filter *before* the data gets loaded into Power BI? Can yo u add filters to the source that reduce the data you need to load and process
+The best performing code is code you never have to run - what can we do to filter *before* the data gets loaded into Power BI? Can we add filters to the source that reduce the data we need to load and process? While it might be quicker to do our changes and calulation on the Power BI end, it's usually better to do them at source.
 
 ### Demos
-Import some data and use many of the transformations. Make sure to roll some back.
-
-
+Import some data and use some of the transformations. Make sure to roll some back.
 
 ## Calculated columns and measures
-Calculated columns are extra values added to your data set. Use these when you need columns to appear in rows and groups as headers, or for making joins. Use measures when you want to perform calculations like sum of sales. 
+Calculated columns are extra values added to our data set. Use these when we need extract data from other columns for grouping, or for making joins. We use measures when we want to perform calculations like sum of sales or count of customers. 
 
 ### Creating calculated columns
 ### Creating measures 
