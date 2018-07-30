@@ -32,4 +32,4 @@ Upon completion of this course, students should be able to;
  6. [Data manipulation](DataManipulation.md)
  7. [Data visualisation](DataVisualisation.md)
  8. [Dashboarding and presentation](Dashboarding.md)
- 
+
