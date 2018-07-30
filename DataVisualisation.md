@@ -21,7 +21,13 @@ Like with tables, it's important that we give some time to thinking about format
 
 ![Chart formatting](img/ChartFormatting.png)
 
-And here's an awesome step by step guide to improving charts from Darkhorse Analytics: ![Remove to Improve](http://static1.squarespace.com/static/56713bf4dc5cb41142f28d1f/5671e8bf816924fc22651410/5671eae2816924fc2265189a/1450306274301/data-ink.gif)
+And here's a few awesome step by step guides to improving charts from Darkhorse Analytics: 
+
+![Remove to Improve](http://static1.squarespace.com/static/56713bf4dc5cb41142f28d1f/5671e8bf816924fc22651410/5671eae2816924fc2265189a/1450306274301/data-ink.gif)
+
+![Pie charts of doom](http://static1.squarespace.com/static/56713bf4dc5cb41142f28d1f/5671e8bf816924fc22651410/5671eb2e816924fc22651bc9/1450306350612/devourThePie3.gif)
+
+![Maps](https://static1.squarespace.com/static/56713bf4dc5cb41142f28d1f/t/5810e4186a4963ac4defc76b/1481623134192/map_reduce2.gif)
 
 ### Demos
 - Build a chart 
