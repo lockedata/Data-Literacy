@@ -1,5 +1,5 @@
 # Understanding what data is
-Before we get stuck in with the fun stuff, we should start by answering an important question:
+Before we get stuck in , we should start by answering an important question:
 
 ## What is data?
 Data is information on a thing. This thing can be anything from an atom, to a lion, to a country, to you.
@@ -13,6 +13,8 @@ This cartoon representation of Steph is an image, which is stored on a computer 
 Data is a hot topic at the moment, as a result of GDPR. Companies around the world now need to be open and mindful of how they handle data they hold on any given person. The following video explains the importance of being aware of how you expose your data:
 
 [Your data matters](https://youtu.be/_RVPj-GSOdY)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_RVPj-GSOdY?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Why does it matter?
 As a company, data is invaluable. With it we can ensure the company is compliant, profitable, and effective. If we don't store, manage, and access our data properly the business is exposed to risk, and will struggle to function properly. For example: if a car sales company doesn't properly record data on sales, or doesn't have an easy means of viewing data on sales, they won't be able to know what kinds of cars are the most popular, what colours to buy in, or what offers are proving to be the most effective.
