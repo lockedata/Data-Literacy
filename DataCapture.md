@@ -20,6 +20,13 @@ Yup, we're back to GDPR again! GDPR establishes rules for how we collect and han
 ## What are some key principles of good data capture?
 Here are some key principles that will make it easier to think about data capture:
 
+- Keep It Simple Stupid
+- Be conventional
+- Be consistent
+- Minimise actions
+- Think about diversity
+- Help people succeed
+
 ### Keep It Simple Stupid
 Create forms and inputs that are easy to understand, and leave no ambiguities about what is required. Make it as simple as possible for people to fill in; don't call that field number, call it mobile number!
 
@@ -35,11 +42,19 @@ The more a user has to do, they less likely they are to do it. If you don't need
 ### Think about diversity
 OK, so maybe it's not going to factor into data quality; but do you really need to record a user's title? If there are ways that you can be more inclusive, like skipping title or gender, or including a more full list of genders (rather than just male or female) then your users are going to be happier. If nothing else, a happy user is more likely to take the time to make sure they've filled out the form accurately.
 
-### Assist folks in filling the form out well
+### Help people succeed
 In the scope of filling out webforms, little is more annoying that clicking submit, only to see big red text telling you you did something wrong. Oh, *now* you tell me that my password has to be less than 16 characters! This is easily avoided by telling the user what they need to do upfront; provide tooltips in form fields, hover text or call outs. Make it as easy as possible to give you the data you want, in the format you need.
 
 ## How can we plan our data capture?
 Great, so what now? Time to plan out your data capture! To get started, here are some valuable questions you should be asking:
+
+- Why do we need to capture this data?
+- What information do we need to capture?
+- Do we **REALLY** need that personally identifiable info?
+- What types of analysis are we expecting to do?
+- What data types do we need and which fields can come from a constrained list?
+- What things can we do to make it easier to for folks to complete the form?
+- What audit data do we need?
 
 ### Why do we need to capture this data?
 The first thing you need, when looking to set up data capture, is to know why you're doing it! There's no sense just randomly collecting info; you should be doing data capture with a specific use in mind. For instance, if you're looking to set up a customer service form, you're end goal is being able to resolve customer contacts, with a bonus feature of analysis. With your intent properly laid out, you can more readily answer all of the questions that are to follow.
@@ -58,7 +73,7 @@ Data comes in a whole range of types; from numbers to text, logic to dates. We s
 
 ### What things can we do to make it easier to for folks to complete the form?
 Dropdowns and date pickers don't just make for better quality data, they also make it easier for people to fill in our forms. Other things to consider include:
-- layout
+- Layout
   - Is it easy to understand what to fill out next?
 - Readability
   - Is it clear what data goes where, and in what format?
