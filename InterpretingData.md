@@ -1,16 +1,5 @@
 # Interpreting raw data
-So we've got data, but what does it mean? It's easy enough to read most data, but it helps to have a solid understanding of how data is structured. Being able to interpret raw data (i.e. data that hasn't been nicely formatted for end users.)
-
-## Data types
-Data Types tell our systems what kind of data it's being given, this is important for making sure certain functions work (like date calculations,) enables data validation (like making sure we're being given a real date,) and reducing the amount of space data takes up.
-
-There are quite a few data types, but these are the main ones we need to be concerned with:
-
-- **Numberic**: Is a whole number or a decimal and can be positive or negative
-- **Integer**: Is a whole number
-- **Character** / **String**: Is text
-- **Boolean**: Is TRUE or FALSE
-- **Date** / **Datetime** Is a point in time
+So we've got data, but what does it mean? It's easy enough to read most data, but it helps to have a solid understanding of how data is structured. Being able to interpret raw data (i.e. data that hasn't been nicely formatted for end users) is key to being able to use it effectively.
 
 ## Core concepts
 Data serves different purposes beyond simply holding information; many records we keep won't even been seen by the end user. Here are some examples of the kind of things data may be used for:
@@ -20,6 +9,8 @@ Data serves different purposes beyond simply holding information; many records w
 - **Attributes** Properties of *something* (like a customer's date of birth)
 - **Identifier** / **Key** A value or combination of values that uniquely identifies *something* (like a customer's email)
 - **Surrogate key** A placeholder value that can be used (often a number) to represent *something* (like a customer reference number)
+
+
 
 ## Tables
 Tables are what we tend to work with most often day to day. Even when we get data from systems via an API, we usually make it look like a table. Tables are simply data presented in a row/column format, where a single record takes up a single row, and all data for that record is placed in the relevant columns of that row.
@@ -35,6 +26,17 @@ We often describe tables as having certain shapes. Common shapes include:
 - **Denormalised** / **Flat**: Like wide, but collapses all the relationships into a single row (like having everything you need to know on a sale in one row*)
 
 *\*This last one may be what you end up with when you merge records together for reporting, and it sounds very useful, but it takes up more space, and makes it much less flexible.*
+
+## Data types
+Data Types tell our systems what kind of data it's being given, this is important for making sure certain functions work (like date calculations,) enables data validation (like making sure we're being given a real date,) and reducing the amount of space data takes up.
+
+There are quite a few data types, but these are the main ones we need to be concerned with:
+
+- **Numberic**: Is a whole number or a decimal and can be positive or negative
+- **Integer**: Is a whole number
+- **Character** / **String**: Is text
+- **Boolean**: Is TRUE or FALSE
+- **Date** / **Datetime** Is a point in time
 
 ## Data quality
 We already talked about data quality, but it's worth considering again from the perspective of interpreting data.
