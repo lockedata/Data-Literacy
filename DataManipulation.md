@@ -5,8 +5,23 @@ We've briefly touched on this already, but in this section we'll take a deeper l
 Firstly, we'll need to make transformation to the way the data is structured, and the format it's in 
 
 ### Commonly used options
+
+- First row as headers
+- Sorting out data types
+- Tidying text data 
+- Remove Rows to deduplicate data
+- Summarisable
+- NA replacement
+- Split column
+- Reshaping data
+    + Transpose
+    + Pivot
+    + Unpivot
+
 ### Undoing changes
 ### Best practices
+The best performing code is code you never have to run - what can you do to filter *before* the data gets loaded into Power BI? Can yo u add filters to the source that reduce the data you need to load and process
+
 ### Demos
 Import some data and use many of the transformations. Make sure to roll some back.
 
