@@ -2,3 +2,14 @@
 ---
 
 @import "{{ site.theme }}";
+
+// h6 starts at $base-font-size
+// headings grow from h6 to h1 by $heading-scale
+$base-font-size: 24px;
+$heading-scale: 8; // amount of px headings grow from h6 to h1
+
+@for $i from 1 through 6 {
+  #main-content h#{$i} {
+    font-size: $base-font-size + $heading-scale * (6 - $i);
+  }
+}
