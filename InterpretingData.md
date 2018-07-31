@@ -27,6 +27,8 @@ We often describe tables as having certain shapes. Common shapes include:
 
 *\*This last one may be what you end up with when you merge records together for reporting, and it sounds very useful, but it takes up more space, and makes it much less flexible.*
 
+
+![table pivoting](img/pivoting.jpg)
 ## Data types
 Data Types tell our systems what kind of data it's being given, this is important for making sure certain functions work (like date calculations,) enables data validation (like making sure we're being given a real date,) and reducing the amount of space data takes up.
 
