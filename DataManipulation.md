@@ -22,7 +22,7 @@ Changes can be made in error, or might simply need to be reversed. It's importan
 
 OK, we're not making changes to the data source here, and we don't need to worry about backups and the like. As a result we can just revert our data connection. If we do this though, we lose all the changes we made. PowerBI keeps a full history of the changes we make, so we can revert back anything we do; if we change a bunch of data types and then picot our data, we can undo the changes to the data types without losing the changes to data structure!
 
-![Power BI Online -get data](img/PowerBIHistory.png)
+![Power BI Online -get data](img/PowerBIHistory.PNG)
 
 ### Best practices
 The best performing code is code you never have to run - what can we do to filter *before* the data gets loaded into Power BI? Can we add filters to the source that reduce the data we need to load and process? While it might be quicker to do our changes and calulation on the Power BI end, it's usually better to do them at source.
