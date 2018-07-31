@@ -33,7 +33,7 @@ Import some data and use some of the transformations. Make sure to roll some bac
 ## Calculated columns and measures
 Calculated columns are extra values added to our data set. We use these when we need extract data from other columns for grouping, or for making joins. We use measures when we want to perform calculations like sum of sales or count of customers. 
 
-Within our data model view we can add measures and calculated columns from the Add Columns tab. Choose the type of column to add, and it will be added to the end of the currently displayed table. Use the formula bar (the long text field above the table) to create the formula for our column.
+Within our data model view we can add measures and calculated columns from the Add Columns tab. Choose the type of column to add, and PowerBI will provide a window for creating our formula, which will then be added to the end of the currently displayed table.
 
 ![Power BI Online -get data](img/PowerBICustomColumn.PNG)
 
