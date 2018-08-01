@@ -41,21 +41,6 @@ Within our data model view we can add measures and calculated columns from the A
 - Create a calculated column that returns the first name of a superhero
 - Create a measure that returns the average ratio of height and weight
 
-## Writing formulae
-
-
-### References
-
-
-### Conditional calculations
-
-
-### Common functions
-
-
-### Error handling
-
-
 ### Demos
 - Revisit the formulae written in previous demo
 - Show the intellisense and DAX Studio for extra help
